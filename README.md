@@ -1,4 +1,4 @@
-# soumyadeep-paul-css
+
 body{
 	background-color:black;
 	background-image:url();
